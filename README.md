@@ -1,4 +1,4 @@
-# Rain Prediction Neural Network Case Study
+# Rain Prediction Neural Network 
 
 ## Overview
 
